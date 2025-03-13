@@ -5,4 +5,4 @@ public class Airt {
         System.out.println(8 / 9);
         System.out.println(6 * 9);
     }
-}
+}//
