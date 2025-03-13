@@ -3,6 +3,7 @@ package gender;
 import java.util.Scanner;
 
 public class gen {
+    
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
