@@ -1,4 +1,4 @@
-
+package array_vow;
 
 import java.util.Scanner;
 
@@ -23,8 +23,5 @@ public class vow {
         } else {
             System.out.println("Consonant");
         }
-
-        input.close();
     }
-}
 }
