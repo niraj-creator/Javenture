@@ -1,3 +1,5 @@
+package command;
+
 public class Napa {
     public void subtract(int x, int y) {
         int z = x - y;

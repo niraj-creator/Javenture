@@ -27,4 +27,3 @@ public class vow {
         input.close();
     }
 }
-}

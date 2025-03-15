@@ -4,9 +4,9 @@ import java.util.Scanner;
 
 public class vow {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
+        Scanner scan = new Scanner(System.in);
         System.out.println("Enter the character"); 
-        char ch = input.next().charAt(0);
+        char ch = scan.next().charAt(0);
         
         char[] vowels = {'a', 'e', 'i', 'o', 'u', 'A', 'E', 'I', 'O', 'U'};
         boolean isVowel = false;
